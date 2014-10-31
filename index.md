@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Melissa Bica
+tagline: My Website
 ---
 {% include JB/setup %}
 
