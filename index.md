@@ -2,7 +2,7 @@
 layout: page
 title: Melissa Bica
 tagline: My Website
-permalink: /index
+permalink: /index/
 ---
 {% include JB/setup %}
 
