@@ -2,6 +2,6 @@
 layout: page
 title: "About"
 description: ""
-permalink: page-title/
+permalink: /about/
 ---
 {% include JB/setup %}
