@@ -8,9 +8,9 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Melissa Bica
-tagline: My Website
-author : Melissa Bica
+title : Jekyll Bootstrap
+tagline: Site Tagline
+author :
   name : Melissa Bica
   email : melissa.bica@colorado.edu
   github : melissab147
