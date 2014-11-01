@@ -91,6 +91,7 @@ img {
 small, .small, aside {
   font-size: 0.75;
   color: #848484;
+  font-weight: normal;
 }
 .font-size-default {
   font-size: 1em;
