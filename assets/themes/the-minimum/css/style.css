@@ -90,6 +90,7 @@ img {
 }
 small, .small, aside {
   font-size: 0.75em;
+  color: #FAFAFA;
 }
 .font-size-default {
   font-size: 1em;
