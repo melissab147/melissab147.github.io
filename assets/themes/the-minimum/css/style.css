@@ -90,7 +90,7 @@ img {
 }
 small, .small, aside {
   font-size: 0.75em;
-  color: #FAFAFA;
+  color: ##E6E6E6;
 }
 .font-size-default {
   font-size: 1em;
@@ -240,7 +240,8 @@ pre {
   padding-bottom: 1.625em;
 }
 .unit-article header h1 {
-  color: #2d2d2d;
+  /*color: #2d2d2d;*/
+  color: #FAFAFA;
   margin-top: 0;
   margin-bottom: 0;
 }
