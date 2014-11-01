@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MelissaBica.com
+title: Melissa Bica
 tagline: My Website
 ---
 {% include JB/setup %}
