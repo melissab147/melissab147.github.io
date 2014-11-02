@@ -73,7 +73,7 @@ JB :
   archive_path: /archive/
   categories_path : /categories/
   tags_path : /tags/
-  cv/path : /cv/
+  cv_path : /cv/
   atom_path : /atom.xml
   rss_path : /rss.xml
 
