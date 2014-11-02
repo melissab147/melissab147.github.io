@@ -228,7 +228,7 @@ pre {
   position: relative;
   top: 2px;
 }
-.active{
+.the-header .nav-global .active{
   text-decoration: underline;
 }
 /* MAIN
