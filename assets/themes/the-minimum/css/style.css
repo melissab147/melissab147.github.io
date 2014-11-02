@@ -540,6 +540,7 @@ pre {
 }
 .the-footer .license p {
   margin-bottom: 0;
+  font-size: 10px;
 }
 .the-header .unit-inner {
   width: 15em;
