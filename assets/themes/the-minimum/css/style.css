@@ -228,6 +228,9 @@ pre {
   position: relative;
   top: 2px;
 }
+.active{
+  text-decoration: underline;
+}
 /* MAIN
 --------------------------------------------------------------------------------- */
 .unit-article header {
