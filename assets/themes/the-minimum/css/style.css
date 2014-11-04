@@ -89,7 +89,7 @@ img {
   margin-bottom: 1.625em;
 }
 small, .small, aside {
-  font-size: 0.6;
+  font-size: 24px;
   color: #8181F7;
   font-weight: normal;
 }
@@ -228,9 +228,9 @@ pre {
   position: relative;
   top: 2px;
 }
-.the-header .nav-global .active{
+/*.the-header .nav-global .active{
   text-decoration: underline;
-}
+}*/
 /* MAIN
 --------------------------------------------------------------------------------- */
 .unit-article header {
