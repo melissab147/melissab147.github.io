@@ -235,7 +235,9 @@ pre {
 --------------------------------------------------------------------------------- */
 .unit-article header {
   background: url('/assets/themes/the-minimum/skin/100-90-5-monochrome.png');
+  /*background: url('/assets/images/taj.jpg');*/
   background-repeat: repeat;
+  /*background-repeat: no-repeat;*/
   background-position: 0 0;
   /*background-color: #BADA55;*/
   background-color: #4A1EB8;
