@@ -5,10 +5,13 @@ tagline: My Website
 ---
 {% include JB/setup %}
 
-<img src="assets/images/me.jpg" width="30%" />
+<img src="assets/images/me.jpg" width="30%" class="left"/>
 
+I am a first year Ph.D. student at University of Colorado Boulder in Computer Science within the research area of Human-Centered Computing. I am part of Project EPIC (Empowering the Public with Information in Crisis) working with Professor Leysia Palen. This year, I am a TA for Introduction to Programming, and I intend to start research in Crisis Informatics this fall.
 
+In June 2014, I graduated with a B.S. in Computer Science and Engineering from Santa Clara University.  My interest in HCC/HCI comes from several of my experiences throughout college, including training rural women in IT skills in India, developing a mobile app for local homeless people in the Bay Area, and leading a group of high school girls as they learned programming and mobile development. I enjoy participating in community outreach and educating younger students, especially girls, about STEM fields. Overall, I strive to become a socially conscious computer engineer focusing on humanitarian technology.
 
+<!-- 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
@@ -47,3 +50,4 @@ Here's a sample "posts list".
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
+ -->
