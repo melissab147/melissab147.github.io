@@ -244,7 +244,8 @@ pre {
   /*background-repeat: no-repeat;*/
   background-position: 0 0;
   /*background-color: #BADA55;*/
-  background-color: #3B0B2E;
+  /*background-color: #3B0B2E;*/
+  background-color: #2B0B3B;
   /*nd-color: #4A1EB8;*/
   margin-bottom: 1.625em;
   padding-top: 1.625em;
@@ -522,7 +523,8 @@ pre {
 ----------------------------------------------- */
 .the-footer {
   /*background-color: #1a1a1a;*/
-  background-color: #3B0B2E;
+  /*background-color: #3B0B2E;*/
+  background-color: rgba(207, 203, 181, 1);
   /*background-color: rgba(21, 25, 25, 0.8);*/
   color: #fafafa;
   /*color: rgba(250, 250, 250, 0.8);*/
