@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Melissa Bica
-tagline: My Website
+<!-- tagline: My Website -->
+js: about.js
 ---
 {% include JB/setup %}
 

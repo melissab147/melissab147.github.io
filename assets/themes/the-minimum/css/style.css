@@ -524,22 +524,22 @@ pre {
 .the-footer {
   /*background-color: #1a1a1a;*/
   /*background-color: #3B0B2E;*/
-  background-color: rgba(207, 203, 181, 1);
-  /*background-color: rgba(21, 25, 25, 0.8);*/
-  color: #fafafa;
+  /*background: linear-gradient(white, rgba(194, 207, 201, 1)); */
+  background-color: rgba(194, 207, 201, 1);
+  color: #ffffff;
   /*color: rgba(250, 250, 250, 0.8);*/
-  padding-bottom: 1.625em;
+  /*padding-bottom: 1.625em;*/
 }
 .the-footer a:link {
-  color: #99cc99;
+  color: #2C0566;
   border: 0;
 }
 .the-footer a:visited {
-  color: #77bb77;
+  color: #2C0566;
   border: 0;
 }
 .the-footer a:hover {
-  color: #bbddbb;
+  color: #2C0500;
   border: 0;
 }
 .the-footer ul {
@@ -790,7 +790,8 @@ pre {
   }
 
   .the-header .nav-global a:hover{
-    color: #A07C97;
+    /*color: #A07C97;*/
+    color: rgba(207, 203, 181, 1);
   }
   .unit-article .unit-head-inner,
   .unit-article .entry-content,
