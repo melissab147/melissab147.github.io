@@ -8,9 +8,9 @@ js: about.js
 
 <img src="assets/images/me.jpg" width="30%" class="left"/>
 
-I am a first year Ph.D. student at University of Colorado Boulder in Computer Science within the research area of Human-Centered Computing. I am part of Project EPIC (Empowering the Public with Information in Crisis) working with Professor Leysia Palen. This year, I am a TA for Introduction to Programming, and I intend to start research in Crisis Informatics this fall.
+I am a second year Ph.D. student in Computer Science at University of Colorado Boulder. My research area is Human-Centered Computing. I am part of Project EPIC (Empowering the Public with Information in Crisis) working with Professor Leysia Palen. My research interests are in crisis informatics, social computing, information diffusion, and data visualization.
 
-In June 2014, I graduated with a B.S. in Computer Science and Engineering from Santa Clara University.  My interest in HCC/HCI comes from several of my experiences throughout college, including training rural women in IT skills in India, developing a mobile app for local homeless people in the Bay Area, and leading a group of high school girls as they learned programming and mobile development. I enjoy participating in community outreach and educating younger students, especially girls, about STEM fields. Overall, I strive to become a socially conscious computer engineer focusing on humanitarian technology.
+Previously, I graduated with a B.S. in Computer Science and Engineering from Santa Clara University.  My interest in human-centered computing comes from several of my experiences throughout college, including training rural women in IT skills in India, developing a mobile app for local homeless people in the Bay Area, and leading a group of high school girls as they learned programming and mobile development.
 
 <!-- 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
